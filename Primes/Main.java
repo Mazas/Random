@@ -1,5 +1,5 @@
 package tadas.ivanauskas;
-
+/**Prints out as much primes as you want*/
 import java.util.Scanner;
 
 public class Main {
